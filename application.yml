@@ -1,5 +1,4 @@
-    
- microservice:
+microservice:
   citizen-service:
     endpoints:
       endpoint:
